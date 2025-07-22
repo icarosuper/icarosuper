@@ -14,7 +14,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarosuper&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark" width="250" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=icarosuper&theme=dark" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=icarosuper&theme=dark" width="280">
 </p>
 
 <p align="center">
