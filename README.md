@@ -6,14 +6,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="65" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icarosuper&count_private=true&include_all_commits=true&show_icons=true&theme=dark" width="340" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icarosuper&count_private=true&include_all_commits=true&show_icons=true&theme=dark" width="250" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarosuper&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarosuper&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark" width="250" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=icarosuper&theme=dark" width="340">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=icarosuper&theme=dark" width="250">
 </p>
 
 <p align="center">
